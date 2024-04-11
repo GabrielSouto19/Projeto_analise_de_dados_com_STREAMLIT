@@ -18,8 +18,10 @@ Plotly: Biblioteca utilizada para criação de gráficos interativos.
 Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um problema ou enviar um pull request com sugestões de melhorias, correções de bugs, ou novas funcionalidades.
 
-Autores
-Seu Nome (@seuusuario)
+
+
+
+Projeto de estudos com a HASHTAG PROGRAMAÇÂO
 Licença
 Este projeto é licenciado sob a MIT License - veja o arquivo LICENSE para mais detalhes.
 
